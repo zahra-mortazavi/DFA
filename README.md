@@ -171,5 +171,6 @@ YES
 
 Student project for the *Formal Languages and Automata Theory* course.
 
+📅 Spring 2024
 ---
 
